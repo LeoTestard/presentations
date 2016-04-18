@@ -1,5 +1,5 @@
-present-rust-codemesh2013
-=========================
+pnkfelix/presentations
+======================
 
 Source for various presentations by Felix Klock (@pnkfelix).
 
